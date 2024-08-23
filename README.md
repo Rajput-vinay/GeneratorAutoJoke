@@ -14,7 +14,7 @@ The Joke Generator allows users to click a button to retrieve and display a rand
 
 ## Live Demo
 
-You can view a live demo of the project [here](#). (Replace this placeholder with the actual link to your live project if available.)
+You can view a live demo of the project [here](https://clinquant-fudge-871a5a.netlify.app/). (Replace this placeholder with the actual link to your live project if available.)
 
 ## Technologies Used
 
